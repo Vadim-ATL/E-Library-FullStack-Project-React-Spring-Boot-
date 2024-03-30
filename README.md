@@ -7,7 +7,6 @@ Welcome to the E-Library project! This project is a digital library management s
     
 ### **BookController.java**
 The BookController class is a REST controller responsible for handling HTTP requests related to books.
-It allows requests from a specific origin (http://localhost:3000), which is typically the address of your React application.
 
 ### **Endpoints:**
 * GET /api/v1/book: Returns a list of all books in the library.
