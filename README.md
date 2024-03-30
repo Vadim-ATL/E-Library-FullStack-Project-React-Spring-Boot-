@@ -46,7 +46,7 @@ To run the project locally, follow these steps:
 
 ### License
 
-This project is licensed under the * [MIT License](https://docs.github.com/en/github/writing-on-github "more info")
+This project is licensed under the [MIT License](https://github.com/Vadim-ATL/E-Library-FullStack-Project-React-Spring-Boot-/blob/main/LICENSE.md)
 
 
 Thank you for using E-Library! If you have any questions or feedback, please don't hesitate to contact me. 
